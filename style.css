@@ -1,0 +1,13 @@
+
+#contenedor{
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#Imagen {
+
+    width: 20%;
+    
+      
+}
